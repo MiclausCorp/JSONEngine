@@ -21,8 +21,5 @@ let package = Package(
         .target(
             name: "JSONEngine",
             dependencies: []),
-        .testTarget(
-            name: "JSONEngineTests",
-            dependencies: ["JSONEngine"]),
     ]
 )
