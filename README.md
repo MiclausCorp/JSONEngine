@@ -38,3 +38,6 @@ for item in object {
     }
 }
 ```
+
+## License
+[Miclaus General Public Software License](https://miclausindustries.github.io/license/mgpsl/LATEST.txt)
