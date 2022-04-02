@@ -2,6 +2,7 @@
 
 A resilient and easy to use JSON Parser that supports Dynamic Member Lookup.
 
+[![build](https://github.com/MiclausCorp/JSONEngine/actions/workflows/swift.yml/badge.svg)](https://github.com/MiclausCorp/JSONEngine/actions/workflows/swift.yml)
 [![Get on SPM](https://img.shields.io/badge/Available%20on-Swift%20Package%20Manager-orange?logo=swift)](#installation)
 
 ## Installation
